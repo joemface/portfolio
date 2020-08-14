@@ -5,3 +5,4 @@ SQLAlchemy
 gunicorn
 passlib
 requests
+pymongo
